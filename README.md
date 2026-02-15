@@ -141,6 +141,10 @@ case_study_02_energy-consumption-customer-risk-analytics/
 └── requirements.txt
 ```
 
+## Data Privacy
+The original dataset contains sensitive operational information and is not publicly shared.  
+All customer identifiers are anonymized/hashed, and therefore the dataset included in this repository is either anonymized or excluded for privacy reasons.
+
 ---
 
 ## How to Run
